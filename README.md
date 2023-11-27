@@ -1,16 +1,23 @@
-### Hi there 👋
-
 <!--
 **bubbapang/bubbapang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+# Adam Pangelinan - Philosopher on paper, increasingly a maker.
+
+## Yo, I'm Adam
+- adampangelinan.com is where you'll find everything (about, resume, curation, contact).
+
+</br>
+
+# Stats
+![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=bubbapang&show_icons=true&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bubbapang&layout=compact&theme=tokyonight&langs_count=8)
+
+# Projects
+<!-- Update with your own projects -->
+[![Project1](https://github-readme-stats.vercel.app/api/pin/?username=bubbapang&repo=mythic-mountain&show_owner=true&theme=tokyonight)]([https://github.com/bubbapang/mythic-mountain])
+[![Project2](https://github-readme-stats.vercel.app/api/pin/?username=bubbapang&repo=peeramid&show_owner=true&theme=tokyonight)](https://github.com/bubbapang/peeramid)
+
+</br>
+
+<!-- Feel free to add your social media links -->
