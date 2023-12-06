@@ -8,7 +8,6 @@
 - adampangelinan.com is where you'll find everything (about, resume, curation, contact).
 
 # Stats
-![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=bubbapang&show_icons=true&theme=tokyonight)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bubbapang&layout=compact&theme=tokyonight&langs_count=8)
 
 # Projects
