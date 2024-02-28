@@ -1,25 +1,20 @@
-Hey there 
+### 👋 Yo yo! I'm Adam Pangelinan, 21 years old, and from the beautiful island of 🌊 Guam USA 🦅
+#### Amateur Musician 🎸 turned Amateur Philosopher 🤔 turned Software Engineer 💻 turned aspiring Sci-Fi engineer (Atoms AND Bits) 👽
 
-👨‍💻 About Me :
-Nice to meet you! My name is Adam, and I'm an Software Engineer from 🇬🇺🏝️ .
+- ⚙️ Software tings I use: Javascript, React, Express, Node | MongoDB | Ruby, Rails | Python, Tkinter | GIT, SQL, AWS | HTML, CSS | and more...
+- 𝕏🐤 I'm active on [**X/Twitter**](https://twitter.com/adamtpang)
+- 🌐 Everything else can be found here: [**My Website**](https://adampangelinan.com)
 
-🔭 Seeking work as a Full Stack Developer. I enjoy building web applications and working on both frontend and backend.
+Have a good day :)
 
-🌱 Currently learning a lot more about physical engineering (nuclear, robotics, aerospace). I'm an aspiring "Sci-Fi" engineer, capable of working on both Atoms and Bits
+and remember...
 
-🏖️ In my free time I play Soccer, Poker, Hearthstone, read, and post on Twitter. Fun times :D
+Never give up on your dreams!
 
-💬 Ask me about any of my projects, or simply chat
+Do not squander this one life with pessimism!
 
-📫 How to reach me:
+Be a definite optimist instead!
 
-Email: adamtpangelinan@gmail.com
-LinkedIn: Linkedin Badge
+There is so much positive possibility!
 
-🛠️ Languages and Tools :
-Javascript, React-Redux, Express, Node | MongoDB | Ruby, Rails | Python, Tkinter | GIT, SQL, AWS | HTML, CSS | and more...
-
-🔥 My Stats :
-GitHub Streak
-
-Top Langs
+You got this!
