@@ -5,16 +5,16 @@
 - 𝕏🐤 I'm active on [**X/Twitter**](https://twitter.com/adamtpang)
 - 🌐 Everything else can be found here: [**My Website**](https://adampangelinan.com)
 
-Have a good day :)
-
-and remember...
-
-Never give up on your dreams!
-
-Do not squander this one life with pessimism!
-
-Be a definite optimist instead!
-
-There is so much positive possibility!
-
-You got this!
+      Have a good day :)
+      
+        and remember...
+      
+          Never give up on your dreams!
+      
+            Do not squander this one life with pessimism!
+      
+              Be a definite optimist instead!
+      
+                There is so much positive possibility!
+      
+                  You got this!
