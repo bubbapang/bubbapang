@@ -1,1 +1,2 @@
-under construction
+adampang.com
+adampangelinan.com
