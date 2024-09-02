@@ -1,2 +1,1 @@
 adampang.com
-adampangelinan.com
